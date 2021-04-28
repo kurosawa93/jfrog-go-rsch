@@ -17,3 +17,7 @@ func Diagnostic() {
 func Hello(name string) {
 	fmt.Printf("Hello, Sir " + name)
 }
+
+func Salute(name string) {
+	fmt.Printf("SALUTE TO " + name + "!!!!")
+}
