@@ -1,0 +1,8 @@
+version: 1
+type: go
+resolver:
+  repo: tunaikudev
+  serverId: jfrog-rsch-local
+deployer:
+  repo: tunaikudevvm
+  serverId: jfrog-rsch-local
