@@ -21,3 +21,7 @@ func Hello(name string) {
 func Salute(name string) {
 	fmt.Printf("SALUTE TO " + name + "!!!!")
 }
+
+func Bow(name string) {
+	fmt.Printf("Bow to " + name)
+}
